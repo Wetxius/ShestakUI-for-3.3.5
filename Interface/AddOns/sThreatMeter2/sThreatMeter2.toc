@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: sThreatMeter2
+## Notes: Bedrohungsanzeige.
+## Author: Nils Ruesch
+## Version: 090402
+
+sThreatMeter2.lua

@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: oUF Shestak DPS
+## Notes: Raid DPS layout for oUF.
+## Author: Shestak
+## Credits: Thanks to ALZA for the great help and write some modules
+## RequiredDeps: oUF, oUF_Shestak, !aSettings
+
+oUF_ShestakDPS.lua

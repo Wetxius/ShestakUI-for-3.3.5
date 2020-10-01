@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: tekability
+## Notes: Simple item durability readout in the character frame.
+## Author: Tekkub Stoutwrithe
+## Credits: Fizzle by phyber
+## LoadManagers: AddonLoader
+## X-LoadOn-Execute: CreateFrame("Frame", nil, CharacterFrame):SetScript("OnShow", function(self) LoadAddOn('tekability'); self:SetScript("OnShow", nil) end)
+
+tekability.lua

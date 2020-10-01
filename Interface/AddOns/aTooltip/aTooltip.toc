@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: aTooltip
+## Notes: Simple tooltip modification.
+## Author: ALZA, Shantalya
+## Credits: Shantalya, Tekkub, Aezay, Tipachu, Syzgyn, Meurtcriss, Fernir
+
+aTooltip.lua

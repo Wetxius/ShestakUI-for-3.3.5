@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: aMiniMap
+## Notes: Simple minimap modification.
+## Author: ALZA, Monolit, totalpackage
+## OptionalDeps: Blizzard_TimeManager
+
+aMiniMap.lua

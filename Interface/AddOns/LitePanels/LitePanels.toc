@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: LitePanels
+## Notes: Lightweight Panels of Awesomeness.
+## Author: Katae of Anvilmar
+## Version: 1.5.2
+
+core.lua
+layout.lua

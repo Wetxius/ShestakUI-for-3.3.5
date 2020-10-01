@@ -1,0 +1,6 @@
+## Interface: 30300
+## Title: idChat
+## Notes: Simple chat.
+## Author: Industrial
+
+idChat.lua

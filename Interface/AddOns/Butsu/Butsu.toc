@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: Butsu
+## Notes: Loot frame replacement.
+## Author: Haste
+## Version: 2.0.1
+## Credits: Ammo, RustamIrzaev
+## X-eMail: troeks@gmail.com
+
+Butsu.lua

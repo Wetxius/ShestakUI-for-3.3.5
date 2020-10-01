@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: aLoad
+## Notes: Lightweight ingame addon manager.
+## Author: Fernir
+## Version: 1.1
+
+aLoad.lua

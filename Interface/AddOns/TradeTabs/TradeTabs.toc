@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: TradeTabs
+## Notes: Adds spellbook-style tabs to the TradeSkillFrame for easy swapping between production skills.
+## Author: tardmrr
+## Version 1.7
+## LoadOnDemand: 1
+## LoadWith: Blizzard_TradeSkillUI
+
+TradeTabs.lua

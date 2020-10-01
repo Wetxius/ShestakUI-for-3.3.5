@@ -1,0 +1,40 @@
+﻿<Ui xmlns="http://www.blizzard.com/wow/ui/">	
+	<Script file="scripts\variables.lua"/>
+
+	<Script file="locales\enGB.lua"/>
+	<Script file="locales\ruRU.lua"/>
+	<Script file="locales\deDE.lua"/>
+	<Script file="locales\frFR.lua"/>
+	<Script file="locales\esES.lua"/>
+	<Script file="locales\esMX.lua"/>
+	<Script file="locales\koKR.lua"/>
+	<Script file="locales\zhCN.lua"/>
+	<Script file="locales\zhTW.lua"/>
+
+	<Script file="config\config.lua"/>
+	<Script file="config\user_config.lua"/>
+
+	<Script file="scripts\functions.lua"/>
+	<Script file="scripts\launch.lua"/>
+	<Script file="scripts\autodisable.lua"/>
+	<Script file="scripts\gui.lua"/>
+
+	<Script file="config\aurawatch.lua"/>
+
+	<Script file="scripts\core.lua"/>
+	<Script file="scripts\color.lua"/>
+	<Script file="scripts\error.lua"/>
+	<Script file="scripts\mail.lua"/>
+	<Script file="scripts\slash.lua"/>
+	<Script file="scripts\wtf.lua"/>
+	<Script file="scripts\reminder.lua"/>
+	<Script file="scripts\skin.lua"/>
+	<Script file="scripts\bind.lua"/>
+	<Script file="scripts\raidcomp.lua"/>
+
+	<Script file="datatext\battleground.lua"/>
+
+	<Script file="class\mage.lua"/>
+	<Script file="class\hunter.lua"/>
+	<Script file="class\paladin.lua"/>
+</Ui>

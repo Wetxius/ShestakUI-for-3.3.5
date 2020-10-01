@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: oUF Shestak Heal
+## Notes: Raid Heal layout for oUF.
+## Author: Shestak
+## Credits: Thanks to ALZA for the great help and write some modules
+## RequiredDeps: oUF, oUF_Shestak, !aSettings
+## OptionalDeps: oUF_HealComm4, oUF_ResComm
+
+oUF_ShestakHeal.lua

@@ -1,0 +1,10 @@
+## Interface: 30300
+## Title: Filger
+## Notes: Filtert ein paar Dinge... :P
+## Author: Nils Ruesch
+## Version: 090411
+## RequiredDeps: oUF, oUF_Shestak
+## OptionalDeps: oUF_Shestak
+
+settings.lua
+Filger.lua

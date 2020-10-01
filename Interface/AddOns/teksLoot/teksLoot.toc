@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: teksLoot
+## Notes: Minimalistic group roll frames.
+## Author: Tekkub Stoutwrithe
+## Credits: Эффи(EU-Гордунни)
+
+teksLoot.lua

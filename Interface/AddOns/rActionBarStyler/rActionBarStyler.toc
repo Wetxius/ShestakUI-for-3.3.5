@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: rActionBarStyler
+## Notes: Styles the standard ActionBars.
+## Author: roth
+## Version: 0.7
+## RequiredDeps: !aSettings
+
+rActionBarStyler.lua
+rActionTotemStyler.lua

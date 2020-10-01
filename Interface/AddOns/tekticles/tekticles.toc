@@ -1,0 +1,10 @@
+## Interface: 30300
+## Title: tekticles
+## Notes: Simple font replacement.
+## Author: Tekkub Stoutwrithe
+## Credits: ClearFont2 by Kirkburn
+## LoadManagers: AddonLoader
+## X-LoadOn-Always: delayed
+## OptionalDeps: LibSharedMedia-3.0
+
+tekticles.lua

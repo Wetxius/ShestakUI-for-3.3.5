@@ -1,0 +1,20 @@
+## Interface: 30300
+## Title: oGlow
+## Author: Haste
+## X-eMail: troeks@gmail.com
+## Notes: Make your shiny items... glow in the dark!
+
+oGlow.lua
+
+pipes\bags.lua
+pipes\char.lua
+pipes\inspect.lua
+pipes\bank.lua
+pipes\gbank.lua
+pipes\trade.lua
+pipes\merchant.lua
+pipes\mail.lua
+
+displays\border.lua
+
+filters\quality.lua

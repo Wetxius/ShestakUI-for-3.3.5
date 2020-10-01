@@ -1,0 +1,21 @@
+## Interface: 30300
+## Title: ShestakUI GUI
+## Notes: In-game configuration for ShestakUI.
+## Author: Tohveli
+## Editor: Shestak
+## Credits: Tukz, Fernir
+## RequiredDeps: !aSettings
+## SavedVariablesPerCharacter: GUIConfig
+## Website: http://shestak.org
+
+locales\enGB.lua
+locales\ruRU.lua
+locales\deDE.lua
+locales\frFR.lua
+locales\esES.lua
+locales\esMX.lua
+locales\koKR.lua
+locales\zhCN.lua
+locales\zhTW.lua
+
+!aSettings_GUI.lua

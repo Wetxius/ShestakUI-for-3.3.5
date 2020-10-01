@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: cargBags_Pernobilis
+## Notes: Layout for cargBags.
+## Author: Cargor
+## RequiredDeps: cargBags, oGlow
+## OptionalDeps: cargBags_Anywhere
+
+cargBags_Pernobilis.lua

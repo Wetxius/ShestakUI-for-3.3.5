@@ -1,0 +1,12 @@
+## Interface: 30300
+## Title: ShestakUI Core
+## Notes: A total UI overhaul for World of Warcraft.
+## Author: Shestak
+## Version: 2.5
+## Credits: ALZA, Tekkub, Monolit, Awbee, Industrial, Nightcracker, Kemayo, yleaf, Tukz, v6o, Stuck, Fernir, Eclipse, Elv22
+## OptionalDeps: !aSettings_GUI
+## SavedVariables: SavedOptions
+## SavedVariablesPerCharacter: InstalledUI
+## Website: http://shestak.org
+
+!aSettings.xml

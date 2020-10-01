@@ -1,0 +1,33 @@
+## Interface: 30300
+## Title: oUF Shestak
+## Notes: Main layout for oUF.
+## Author: Shestak
+## Credits: Thanks to ALZA for the great help and write some modules
+## RequiredDeps: oUF, !aSettings
+## OptionalDeps: oUF_HealComm4
+
+oUF_Colors.lua
+oUF_Functions.lua
+oUF_Templates.xml
+oUF_Tags.lua
+
+modules\oUF_AspectCheck.lua
+modules\oUF_AuraTracker.lua
+modules\oUF_AuraWatch.lua
+modules\oUF_CombatFeedback.lua
+modules\oUF_DebuffHighlight.lua
+modules\oUF_Experience.lua
+modules\oUF_GCD.lua
+modules\oUF_MirrorBars.lua
+modules\oUF_MovableFrames.lua
+modules\oUF_RaidDebuffs.lua
+modules\oUF_ReadyCheck.lua
+modules\oUF_Reputation.lua
+modules\oUF_Smooth.lua
+modules\oUF_Swing.lua
+## modules\oUF_Talents.lua
+modules\oUF_TotemBar.lua
+modules\oUF_Trinkets.lua
+modules\oUF_WeaponEnchant.lua
+
+oUF_Main.lua

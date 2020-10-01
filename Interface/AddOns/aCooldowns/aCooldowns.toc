@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: aCooldowns
+## Notes: Enemy and Raid cooldowns tracker.
+## Author: Allez
+## RequiredDeps: oUF, oUF_Shestak
+## OptionalDeps: oUF_Shestak
+
+aCooldowns.lua
